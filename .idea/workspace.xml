@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cd1e704-74a3-43ac-80bf-0a5f8d3c399d" name="Changes" comment="" />
+    <list default="true" id="1cd1e704-74a3-43ac-80bf-0a5f8d3c399d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2RYKcQMdUl82HrnwSrdpM4tlo4Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

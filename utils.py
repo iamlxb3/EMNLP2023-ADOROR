@@ -88,8 +88,6 @@ cache_dir
         else:
             non_cached_indices = list(range(len(eval_dim_prompts)))
 
-        # print(f"cached_indices: {len(cached_indices)}, non_cached_indices: {len(non_cached_indices)}")
-
         llm_eval_dim_scores = np.array([None for _ in range(len(eval_dim_prompts))])
         non_cached_prompts = np.array(eval_dim_prompts)[non_cached_indices]
         non_cached_scores = text_gen_api.llm_gen_concurrent(non_cached_prompts,
@@ -111,7 +109,6 @@ cache_dir
             for x in llm_eval_dim_scores: assert x is not None
         llm_eval_dim_scores = list(llm_eval_dim_scores)
 
-        # TODO: 这里的找数字最好还是做成regular expression
         is_valid = True
         for x_i, x in enumerate(llm_eval_dim_scores):
             if not isinstance(x, str):
