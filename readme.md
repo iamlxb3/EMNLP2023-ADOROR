@@ -1,7 +1,7 @@
 ## Overview
 
 This repository contains the code for the ADOROR method, where we plan to open source all the code with detailed
-comments if the paper is accepted
+comments if the paper is accepted.
 
 ### Code for the core steps
 
