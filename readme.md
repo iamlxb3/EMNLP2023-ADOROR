@@ -3,7 +3,7 @@
 ## Overview
 
 Our paper has been accpeted to EMNLP2023-main. This repository contains the code for our ADOROR method, where we plan to open source all the code with detailed
-comments no later than **March 2024** (It may be ahead of schedule and we'll make it public as soon as we can!). We are very sorry, but for the time being we can only provide some of the code. Feel free to email me (iamlxb3@gmail.com) with any questions, my current research interest is doing dialog evaluation and persona dialog data generation based on in-context learning.
+comments no later than **June 2024** (It may be ahead of schedule and we'll make it public as soon as we can!). We are very sorry, but for the time being we can only provide some of the code. Feel free to email me (iamlxb3@gmail.com) with any questions, my current research interest is doing dialog evaluation and persona dialog data generation based on in-context learning.
 
 ### Code for the core steps
 
